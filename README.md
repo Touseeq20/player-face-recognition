@@ -90,5 +90,5 @@ MATCH_THRESHOLD = 25.0          # Distance threshold (lower is stricter)
 
 ## 👤 Author
 
-**Touseeq Ahmed**
+- **Muhammad Touseeq AI/ML Engineer**
 - GitHub: [@Touseeq20](https://github.com/Touseeq20)
